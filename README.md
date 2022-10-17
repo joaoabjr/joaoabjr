@@ -1,15 +1,13 @@
 <h3 align="center">Oi, eu sou o João :)</h3>
 <h4 align="center">Graduando em Ciência da Computação pela Universidade Federal de Lavras.</h4>
 
-- 🌱 Aprendendo: **JavaScript, React, Bootstrap e Node.js**
+- 🌱 Tecnologias que eu estudo: **JavaScript, React, Bootstrap e Node.js**
 
 - 📄 Um pouco da minha experiência: [https://www.linkedin.com/in/joaoabarbosajr/](https://www.linkedin.com/in/joaoabarbosajr/)
 
 - ⚡ Meus hobbies são **MMORPG, xadrez, jogos, esportes, música**
 
-
-<p align="left">
-</p>
+- 🔭 #OPENTOWORK
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoabjr&show_icons=true&locale=en&layout=compact" alt="joaoabjr" /></p>
