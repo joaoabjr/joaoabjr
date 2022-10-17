@@ -1,5 +1,5 @@
-<h1 align="center">Oi, eu sou o João</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Oi, eu sou o João :)</h1>
+<h3 align="center">Graduando em Ciência da Computação pela Universidade Federal de Lavras.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoabjr&label=Profile%20views&color=0e75b6&style=flat" alt="joaoabjr" /> </p>
 
