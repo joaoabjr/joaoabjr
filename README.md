@@ -3,14 +3,13 @@
 
 - 🌱 Tecnologias que eu estudo: **JavaScript, React, Bootstrap e Node.js**
 
-- 📄 Um pouco da minha experiência: [https://www.linkedin.com/in/joaoabarbosajr/](https://www.linkedin.com/in/joaoabarbosajr/)
+- 📄 [https://www.linkedin.com/in/joaoabarbosajr/](https://www.linkedin.com/in/joaoabarbosajr/)
 
 - ⚡ Meus hobbies são **MMORPG, xadrez, jogos, esportes, música**
 
 - 🔭 #OPENTOWORK
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoabjr&show_icons=true&locale=en&layout=compact" alt="joaoabjr" /></p>
 
 
 
