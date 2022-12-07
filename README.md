@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">Tecnologias que eu estou estudando:</h5>
+<h5 align="left">Tecnologias que eu pratico/estou estudando:</h5>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h5 align="left">Tecnologias que já utilizo:</h5>
+<h5 align="left">Tecnologias que já utilizei em algum projeto ou possuo alguma experiência:</h5>
 
 ###
 
