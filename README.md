@@ -1,8 +1,8 @@
-<h4 align="center">Bem-vindo ao meu perfil :)</h4>
+<h5 align="center">Bem-vindo ao meu perfil :)</h5>
 
 ###
 
-<h4 align="center">Graduando em Ciência da Computação pela Universidade Federal de Lavras. Atualmente estou aberto a propostas e novos desafios como desenvolvedor!</h4>
+<h5 align="center">Graduando em Ciência da Computação pela Universidade Federal de Lavras e Desenvolvedor Front-end</h5>
 
 ###
 
