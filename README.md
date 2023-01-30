@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">Meus hobbies são:<br><br>- 🎮 MMORPG <br>- ♟️ Xadrez<br>- 🎵 Música<br>- 🖥️ Tecnologia<br>- ⚽ Esportes</h5>
+<h5 align="left">Alguns dos meus hobbies são:<br><br>- 🎮 MMORPG <br>- ♟️ Xadrez<br>- 🎵 Música<br>- 🖥️ Tecnologia<br>- ⚽ Esportes</h5>
 
 ###
 
