@@ -1,12 +1,8 @@
-<h5 align="center">Bem-vindo ao meu perfil :)</h5>
+
 
 ###
 
 <h5 align="center">Graduando em Ciência da Computação pela Universidade Federal de Lavras e Desenvolvedor estagiário</h5>
-
-###
-
-<h5 align="left">Alguns dos meus hobbies são:<br><br>- 🎮 MMORPG e Jogos online <br>- ♟️ Xadrez (@joaoabjr)<br>- 🎵 Música<br>- 🖥️ Tecnologia<br>- ⚽ Esportes</h5>
 
 ###
 
