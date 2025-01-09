@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Graduando em Ciência da Computação pela Universidade Federal de Lavras e Desenvolvedor estagiário</h5>
+<h5 align="left">Cientista da Computação pela Universidade Federal de Lavras e Desenvolvedor fullstack</h5>
 
 ###
 
